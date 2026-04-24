@@ -207,4 +207,4 @@ If you use this project, please cite:
 ## 10. Contributors
 
 Zhuo Wang ([zwang570@arizona.edu](mailto:zwang570@arizona.edu))  
-Chiang-Heng Chien ([chiang-heng_chien@brown.edu](mailto:chiang-heng_chien@brown.edu)) @C-H-Chien
+Chiang-Heng Chien ([chiang-heng_chien@brown.edu](mailto:chiang-heng_chien@brown.edu))
