@@ -1,6 +1,6 @@
 # RVO-MIS
 
-RVO-MIS is a monocular visual odometry (VO) framework based on feature matching, five-point essential matrix estimation, and P3P/MSAC pose estimation. Beyond its primary application in minimally invasive surgery (MIS), it generalizes well and can be readily deployed as a reliable baseline for outdoor visual odometry benchmarking.
+RVO-MIS is a monocular visual odometry (VO) framework based on feature matching, five-point essential matrix estimation, and P3P/MSAC pose estimation. Beyond its primary application in minimally invasive surgery (MIS), it generalizes well and can be readily deployed as a reliable baseline for outdoor VO benchmarking.
 
 ## 1. Environment Setup
 
