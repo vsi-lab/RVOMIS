@@ -192,7 +192,7 @@ When running the MATLAB version, make sure to update the Python environment path
 
 ## 9. Citation
 
-If you use this project, please cite:
+If you find this project useful, please consider citing it. We would greatly appreciate it if you do.
 
 ```bibtex
 @inproceedings{wang2026rvomis,
