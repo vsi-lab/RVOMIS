@@ -116,7 +116,7 @@ final frozen-frontend trajectory metrics.
 > equivalence is not claimed; the live SIFT/LightGlue frontend can differ across
 > operating-system, CUDA, software, and GPU stacks.
 
-The Day-37 CUDA audit used identical image bytes, decoded pixels, `lg.py`,
+The CUDA audit used identical image bytes, decoded pixels, `lg.py`,
 LightGlue source, and model weights on Windows and Linux. Audited pairs had the
 same SIFT keypoint counts, but the first structural difference occurred in the
 SIFT keypoint coordinates. Scales, orientations, descriptors, LightGlue output,
