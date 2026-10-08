@@ -6,6 +6,7 @@ minimally invasive surgery, it can also serve as a baseline for monocular VO
 evaluation.
 
 **Project Page:** [RVO-MIS](https://cho-wang001.github.io/rvomis/)
+**Paper:** [RVO-MIS: Robust Visual Odometry for Minimally Invasive Surgery](https://openreview.net/pdf?id=Gr3W3c5tz9)
 
 ## Installation
 
