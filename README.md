@@ -165,7 +165,7 @@ python tools/mat_to_kitti_txt.py \
 
 ## Citation
 
-If you use this project, please cite:
+I would greatly appreciate it if you could cite this project:
 
 ```bibtex
 @inproceedings{wang2026rvomis,
